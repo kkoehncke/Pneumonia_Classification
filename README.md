@@ -23,6 +23,5 @@ pip install jupyter
 Once you have the appropriate packages installed, navigate to the project directory and run the following command:
 
 ```
-#Terminal 1
 jupyter notebook
 
